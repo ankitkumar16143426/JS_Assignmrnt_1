@@ -1,0 +1,10 @@
+ #container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  #inputBox {
+    padding: 5px;
+  }
+  #output {
+    margin-top: 20px;
+  }
